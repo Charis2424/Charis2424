@@ -1,15 +1,9 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif?cid=ecf05e47dcy5mvbum32hykkkiqvdmk3an2rii9wva9ub46mn&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="250"/>
-<div id="badges">
-  <a href="https://gr.linkedin.com/in/charalampos-fountas-a35929260?trk=people-guest_people_search-card">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
   
 ### Hi there 👋
   
 ### My Name is Charis! ✨✨
-
 
 </div>
 
