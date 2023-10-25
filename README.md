@@ -10,7 +10,7 @@
 
 ### :man_technologist: About Me :
 
-I'm Charis, a passionate junior developer with a focus on C# and Vue.js development. Welcome to my GitHub profile!
+I'm Charis, a passionate developer with a focus on C# and Vue.js development. Welcome to my GitHub profile!
 
 <div>
 
